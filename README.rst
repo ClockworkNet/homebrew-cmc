@@ -16,9 +16,10 @@ it can eventually be included in Homebrew proper. Thank you!
 cmc
 ===
 
-cmc_: ControlMaster Controller - Eases management of SSH ControlMaster
+|cmc|_: ControlMaster Controller - Eases management of SSH ControlMaster
 connections.
 
+.. |cmc| replace:: **cmc**
 .. _cmc: https://github.com/ClockworkNet/cmc
 
 
