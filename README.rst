@@ -1,7 +1,7 @@
 Install cmc
 ===========
 
-1. `Install Homebrew`_ — The missing package manager for OS X
+1. `Install Homebrew`_ — The missing package manager for macOS
 2. Add this "tap" and install ``cmc``::
 
     brew tap ClockworkNet/cmc
