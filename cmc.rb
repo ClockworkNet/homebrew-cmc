@@ -2,8 +2,8 @@ require "formula"
 
 class Cmc < Formula
   homepage "https://github.com/ClockworkNet/cmc"
-  url "https://github.com/ClockworkNet/cmc/archive/1.0.2.tar.gz"
-  sha256 "264301794f9e5c0f3eee5e8f23617c54656988170fe85478bdf7c8fea614ad5f"
+  url "https://github.com/ClockworkNet/cmc/archive/1.0.3.tar.gz"
+  sha256 "c9efc0e01dccbe8f3be91eb5e54fb4b2f2a57e9fadd26560b5867b339c5e3750"
 
   def install
     bin.install "cmc"
