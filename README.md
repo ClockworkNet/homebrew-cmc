@@ -3,7 +3,7 @@
 1. [Install Homebrew][InstallHomebrew] — The missing package manager for macOS
 2. Add this "tap" and install `cmc`:
 
-        brew tap ClockworkNet/cmc
+        brew tap TimidRobot/cmc
         brew install cmc
 
 If this utility is helpful for you, please star the cmc project below so that
