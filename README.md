@@ -1,36 +1,27 @@
-## Install cmc
+# homebrew-cmc
 
-1. [Install Homebrew][InstallHomebrew] — The missing package manager for macOS
-2. Add this "tap" and install `cmc`:
-
-        brew tap TimidRobot/cmc
-        brew install cmc
-
-If this utility is helpful for you, please star the cmc project below so that
-it can eventually be included in Homebrew proper. Thank you!
-
-[InstallHomebrew]: http://brew.sh/#install
+cmc formula for the Homebrew package manager
 
 
-## cmc
+## New Primary Tap
 
-**[cmc][cmc]**: ControlMaster Controller - Eases management of SSH ControlMaster
-connections.
+**While this tap continues to function normally, the primary tap for `cmc` is
+now: [TimidRobot/tap][timidtap].**
 
-[cmc]: https://github.com/TimidRobot/cmc
+[timidtap]: https://github.com/TimidRobot/homebrew-tap
 
 
 ## Supported By
 
 Development of this project has been supported by [Clockwork][Clockwork]
-([ClockworkNet][ClockworkNet]). Thank you!
+([ClockworkNet][clockworknet]). Thank you!
 
 [Clockwork]: https://www.clockwork.com/
-[ClockworkNet]: https://github.com/ClockworkNet
+[clockworknet]: https://github.com/ClockworkNet
 
 
 ## License
 
-- [LICENSE](LICENSE) (Expat/[MIT License][MIT])
+- [LICENSE](LICENSE) (Expat/[MIT License][mit])
 
-[MIT]: http://www.opensource.org/licenses/MIT
+[mit]: http://www.opensource.org/licenses/MIT
